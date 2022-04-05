@@ -9,3 +9,6 @@ A SwiftUI Demo
 - 单元测试
 - 下拉刷新
 - 上拉加载更多
+# 效果图
+
+![image](https://github.com/qcc107/AppsDemo/RPReplay_Final1649121258.2022-04-05_09_28_25.gif)
