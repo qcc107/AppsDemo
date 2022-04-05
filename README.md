@@ -11,4 +11,4 @@ A SwiftUI Demo
 - 上拉加载更多
 # 效果图
 
-![image](https://github.com/qcc107/AppsDemo/RPReplay_Final1649121258.2022-04-05_09_28_25.gif)
+![image](https://github.com/qcc107/AppsDemo/blob/main/RPReplay_Final1649121258_2022-04-05_09_28_25.gif)
